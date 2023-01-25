@@ -1,0 +1,74 @@
+{
+  "basics":[ {
+    "name": "xxx",
+    "label": "student",
+    "email": "log98@gmail.com",
+    "phone": "**58239***",
+    "summary": "aspiring full stack developer…",
+    "location": {
+      "address": "xxx,anna nagar,xxx yyy",
+      "postalCode": "xxxx",
+      "city": "chennai",
+      "countryCode": "india",
+      "region": "chennai,TamilNadu"]
+    },
+   
+  "work": [{
+    "name": "IIBAT",
+    "position": "maintanence engineer",
+    "startDate": "01/02/2021",
+    "endDate": "01/08/2021",
+   }]
+  "volunteer": [{
+    "organization": "IIBAT",
+    "position": "Volunteer",
+    "startDate": "2022-01-01",
+    "endDate": "2022-04-01",
+  }],
+  "education": [{
+    "institution": "ANNA UNIVERSITY",
+    "area": "CADD Development",
+    "studyType": "Bachelor",
+    "startDate": "2015-01-01",
+    "endDate": "2018-01-01",
+    "score": "6.5",
+    "courses": [
+      "DB1101 - Basic CADD"
+    ]
+  }],
+
+  "skills": [{
+    "name": "building plan",
+    "level": "bachelor",
+    "keywords": [
+      "cadd",
+      "stadd pro",
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "writting",
+    "keywords": [
+      "short stories",
+      "short films"
+    ]
+  }],
+  
+  "projects": [{
+    "name": "Project of desingning swiming pool",
+    "description": "Description…",
+    "highlights": [
+      "Won certificate at vit symposym"
+    ],
+    "keywords": [
+      "Cadd"
+    ],
+    "startDate": "2017-01-01",
+    "endDate": "2018-01-01",
+    "roles": [
+      "Team lead"
+    ],
+  }]a
